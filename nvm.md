@@ -34,3 +34,5 @@ npm install -g cnpm --registry=https://registry.npm.taobao.org
 > - 查看已安装node版本: nvm list
 > - 切换node版本: nvm use 10.6.0
 > - 卸载node版本: nvm uninstall 10.6.0
+
+## mac安装
